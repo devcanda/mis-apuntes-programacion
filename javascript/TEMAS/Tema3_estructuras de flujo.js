@@ -1,4 +1,4 @@
-let edadCliente = 16;
+let edadCliente = 20;
 
 // El semáforo pregunta: ¿Es mayor o igual a 18?
 if (edadCliente >= 18) {
